@@ -1,0 +1,3 @@
+Make sure that file name doesn't have any spaces, file is in the .txt(Text Document) format and is correctly formatted inside and then enter file name and press Enter: 
+Generated pairs successfully. To find file with results visit Output folder.\nPress Enter to continue . . . 
+How many contestants maximum can be in 1 pair? There are 3 options available:\n  2  3  4\nTo select one of the options above write one of them and press Enter\n
