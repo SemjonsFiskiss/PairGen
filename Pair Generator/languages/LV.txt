@@ -1,3 +1,3 @@
 Parliecinieties, ka faila nosaukumā nav tukšumzīmes, fails ir .txt(Teksta Dokuments) formātā un pareizi atformatēts iekšā un pēc tam ievadiet faila nosaukumu un uzspiediet Enter: 
 Pāri tika ģenerēti veiksmīgi. Lai atrastu failu ar rezultātiem, apmeklējiet Output mapi.\nNospiediet Enter, lai turpinātu . . . 
-Cik maksimāli dalībnieku var būt vienā pārī? Ir pieejamas 3 opcijas:\n  2  3  4\nLai izvēlētos vienu no piedāvātām opcijām uzrakstiet to un nodpiediet Enter\n
+Cik maksimāli dalībnieku var būt vienā pārī? Ir pieejamas 3 opcijas:\n  2  3  4\n\nLai izvēlētos vienu no piedāvātām opcijām uzrakstiet to un nodpiediet Enter\n\n
